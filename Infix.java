@@ -1,3 +1,10 @@
+/**
+* Converts a given infix expression into a postfix expression. 
+* A project for my data structures class
+*
+* @author mullins-dev
+*/
+
 import java.util.Stack;
 
 public class Infix {
